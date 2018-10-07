@@ -1,0 +1,5 @@
+apostila - https://www.cos.ufrj.br/~sergio/ApostilaPascal.pdf
+
+wikipedia - https://pt.wikipedia.org/wiki/Pascal_(linguagem_de_programa%C3%A7%C3%A3o)
+
+tutorialspoint - https://www.tutorialspoint.com/pascal/
