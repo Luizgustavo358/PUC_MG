@@ -1,0 +1,1 @@
+# LAB06-Bicicletas - arvore geradora minima
