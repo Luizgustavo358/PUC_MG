@@ -12,34 +12,33 @@ if __name__ == "__main__":
     # lendo linha
     linha = input("")
 
-    # separando
-    n, m = linha.split(" ")
-
-    # transformando em inteiro
-    n = int(n)
-    m = int(m)
-
-    # criando grafo
-    G = nx.Graph()
-
-    for i in range(0, m):
-        # lendo linha
-        linha = input("")
-
+    while linha != "0 0":
         # separando
-        u, v, w = linha.split(" ")
+        m, n = linha.split(" ")
 
-        # adicionando arestas com peso
-        G.add_edge(int(u), int(v), weight=int(w))
-    # end for
+        # transformando em inteiro
+        m = int(m)
+        n = int(n)
 
-    mostra(G)
+        # criando grafo
+        G = nx.Graph()
 
-    print(G.edges.data('weight'))
+        for i in range(0, n):
+            # lendo linha
+            linha = input("")
 
-    T = nx.minimum_spanning_tree(G)
-    print(T.edges.data('weight'))
+            # separando
+            u, v, w = linha.split(" ")
 
-    new_graph = nx.difference(G, T)
-    print(new_graph.edges.data('weight'))
+            # adicionando arestas com peso
+            G.add_edge(int(u), int(v), weight=int(w))
+        # end for
+
+        print(G.edges.data('weight'))
+
+        T = nx.minimum_spanning_tree(G)
+        print(T.edges.data('weight'))
+
+        new_graph = nx.difference(G, T)
+        print(new_graph.edges.data('weight'))
 # end main
