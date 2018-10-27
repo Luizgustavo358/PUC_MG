@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73b3e124-3eed-4a83-b0ab-bedc9d73be7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LAB06/LAB06-O_Pais_das_Bicicletas/entrada_saida/pub.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB06/problemas/1423 - A aventura de Super Mario - URI Online Judge.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB06/problemas/1454 - O País das Bicicletas - URI Online Judge.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB06/problemas/Lab06.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB07/problemas/Lab07.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB05/Lab05-Parceiros_de_Telecomunicacoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/LAB05/LAB05-Parceiros_de_Telecomunicacoes/Lab05-Parceiros_de_Telecomunicacoes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB05/input e output/pub.in" beforeDir="false" afterPath="$PROJECT_DIR$/LAB05/LAB05-Parceiros_de_Telecomunicacoes/input e output/pub.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB05/input e output/pub.out" beforeDir="false" afterPath="$PROJECT_DIR$/LAB05/LAB05-Parceiros_de_Telecomunicacoes/input e output/pub.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB06/LAB06.py" beforeDir="false" afterPath="$PROJECT_DIR$/LAB06/LAB06-O_Pais_das_Bicicletas/LAB06-O_Pais_da_Bicicletas .py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB07/LAB07.py" beforeDir="false" afterPath="$PROJECT_DIR$/LAB06/LAB06-O_Pais_das_Bicicletas/entrada_saida/pub.in" afterDir="false" />
-    </list>
+    <list default="true" id="73b3e124-3eed-4a83-b0ab-bedc9d73be7c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
