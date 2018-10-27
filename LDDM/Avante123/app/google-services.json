@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "184557151422",
+    "firebase_url": "https://avante-649ec.firebaseio.com",
+    "project_id": "avante-649ec",
+    "storage_bucket": "avante-649ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184557151422:android:5dae44f29304809b",
+        "android_client_info": {
+          "package_name": "com.luizgbraganca.avante123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184557151422-f63ge8iqmnhlpcrkiichrdsmrh24234b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luizgbraganca.avante123",
+            "certificate_hash": "70e5283313a8f21d1f90e818b65506ccaac8c8fe"
+          }
+        },
+        {
+          "client_id": "184557151422-o0ssa1jq2113mgfbdl3v2ffa1ao1f9kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdf3XOs0dMBLn4i13sESkV7R5igK3KxH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184557151422-o0ssa1jq2113mgfbdl3v2ffa1ao1f9kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

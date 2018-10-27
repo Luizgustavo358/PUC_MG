@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_tarefas"
+            android:icon="@drawable/ic_projetos"
+            android:title="@string/minhas_tarefas" />
+        <item
+            android:id="@+id/nav_grupo"
+            android:icon="@drawable/ic_grupo"
+            android:title="@string/encontrar_grupo" />
+    </group>
+
+    <item android:title="@string/comunicacao">
+        <menu>
+            <item
+                android:id="@+id/nav_sobre"
+                android:icon="@drawable/ic_info"
+                android:title="@string/sobre_nos" />
+            <item
+                android:id="@+id/nav_deslogar"
+                android:icon="@drawable/ic_deslogar"
+                android:title="@string/deslogar" />
+        </menu>
+    </item>
+</menu>

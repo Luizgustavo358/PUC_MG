@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.luizgbraganca.avante123.Sobre">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="356dp"
+        android:layout_height="25dp"
+        android:text="@string/titulo_sobre"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:textSize="22sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/imageView2"
+        android:layout_width="129dp"
+        android:layout_height="129dp"
+        android:src="@drawable/bruno"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="71dp"
+        android:layout_above="@+id/imageView3"
+        android:layout_alignStart="@+id/textView3"
+        android:layout_marginBottom="11dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="42dp"
+        android:text="@string/nome_bruno"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="12dp"
+        android:layout_marginBottom="9dp"
+        android:layout_above="@+id/textView7"
+        android:layout_toEndOf="@+id/imageView2" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="41dp"
+        android:text="@string/email_bruno"
+        android:textSize="12sp"
+        android:layout_alignBottom="@+id/imageView2"
+        android:layout_alignStart="@+id/textView4" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/imageView3"
+        android:layout_width="129dp"
+        android:layout_height="129dp"
+        android:src="@drawable/pvp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="220dp"
+        android:layout_centerVertical="true"
+        android:layout_alignStart="@+id/imageView2" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nome_pedro"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="161dp"
+        tools:layout_editor_absoluteY="276dp"
+        android:layout_alignTop="@+id/imageView3"
+        android:layout_alignStart="@+id/textView7"
+        android:layout_marginTop="41dp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView5"
+        android:layout_below="@+id/textView5"
+        android:layout_marginTop="9dp"
+        android:text="@string/email_pedro"
+        android:textSize="12sp" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/imageView4"
+        android:layout_width="129dp"
+        android:layout_height="129dp"
+        android:src="@drawable/luiz"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="371dp"
+        android:layout_below="@+id/imageView3"
+        android:layout_alignStart="@+id/imageView3"
+        android:layout_marginTop="16dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nome_luiz"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="161dp"
+        tools:layout_editor_absoluteY="421dp"
+        android:layout_alignTop="@+id/imageView4"
+        android:layout_alignStart="@+id/textView5"
+        android:layout_marginTop="48dp" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView6"
+        android:layout_below="@+id/textView6"
+        android:layout_marginTop="9dp"
+        android:text="@string/email_luiz"
+        android:textSize="12sp" />
+</RelativeLayout>

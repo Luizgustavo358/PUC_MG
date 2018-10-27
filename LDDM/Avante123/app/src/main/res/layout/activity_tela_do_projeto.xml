@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.luizgbraganca.avante123.TelaDoProjeto">
+
+
+    <TextView
+        android:id="@+id/nomeProjeto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="17dp"
+        android:text="nome do  projeto "
+        android:textColor="@color/black"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/descricaoTarefa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="17dp"
+        android:text="Descrição"
+        android:textSize="18sp"
+        android:layout_below="@+id/nomeProjeto"
+        android:layout_alignStart="@+id/nomeProjeto" />
+
+    <TextView
+        android:id="@+id/txtGrupo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/descricaoTarefa"
+        android:layout_below="@+id/descricaoTarefa"
+        android:layout_marginTop="39dp"
+        android:text="Grupo:" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/listPessoas"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignStart="@+id/txtGrupo"
+        android:layout_below="@+id/txtGrupo"
+        android:layout_marginTop="18dp"
+        android:layout_toStartOf="@+id/addTarefas" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/addTarefas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        app:fabSize="normal"
+        app:srcCompat="@drawable/ic_action_name"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="13dp"
+        android:layout_marginBottom="17dp" />
+</RelativeLayout>

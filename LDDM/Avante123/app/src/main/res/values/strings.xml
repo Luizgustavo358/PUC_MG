@@ -1,0 +1,59 @@
+<resources>
+    <!-- Nome do Aplicativo -->
+    <string name="app_name">Avante!</string>
+
+    <!-- Navigation Drawer -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="comunicacao">Comunicação</string>
+    <string name="deslogar">Deslogar</string>
+
+    <!-- RecyclerView -->
+    <string name="lista">Lista de Projetos</string>
+
+    <!-- Nome das Telas -->
+    <string name="minhas_tarefas">Minhas Tarefas</string>
+    <string name="add_projeto">Adicionar Projeto</string>
+    <string name="encontrar_grupo">Encontrar Grupo</string>
+    <string name="sobre_nos">Sobre Nós</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="title_activity_encontrar_grupo">Map</string>
+    <string name="title_activity_login">Avante!</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="login">Login</string>
+    <string name="lembrar_senha">Lembrar Senha</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_register">Registrar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+
+    <!-- Strings do item -->
+    <string name="imagem_projeto">Projeto</string>
+    <string name="nomeProjetoItem">Nome do Projeto</string>
+    <string name="descricaoItem">Descrição</string>
+
+    <!-- NavigationDrawer -->
+    <string name="email">avante@gmail.com</string>
+
+    <!-- Tela Sobre Nós -->
+    <string name="titulo_sobre">Nós Somos o Grupo Avante!</string>
+    <string name="nome_bruno">Bruno Simões</string>
+    <string name="email_bruno">bssferreira@sga.pucminas.br</string>
+    <string name="nome_pedro">Pedro Pimenta</string>
+    <string name="email_pedro">pbpimenta@sga.pucminas.br</string>
+    <string name="nome_luiz">Luiz Gustavo</string>
+    <string name="email_luiz">luiz.braganca@sga.pucminas.br</string>
+
+    <!-- Tela Add Projeto -->
+    <string name="nome_projeto">Escreva o nome do seu projeto:</string>
+    <string name="edt_txt_nome_projeto">Nome do Projeto</string>
+    <string name="edt_txt_descricao">Descrição do Projeto</string>
+    <string name="btn_add_projeto">Adicionar</string>
+</resources>

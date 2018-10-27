@@ -1,0 +1,16 @@
+<resources>
+    <!-- Nome do Aplicativo -->
+    <string name="app_name">Banco de Dados</string>
+
+    <!-- Nome das Telas -->
+    <string name="title_activity_principal">Livros no Banco de Dados</string>
+    <string name="lista_de_livros">Lista de Livros</string>
+
+    <!-- EditText -->
+    <string name="nome_livro">Nome do Livro</string>
+    <string name="autor">Nome do Autor</string>
+    <string name="ano">Ano</string>
+
+    <!-- Botao -->
+    <string name="adicionar">Adicionar</string>
+</resources>
