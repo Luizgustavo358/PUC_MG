@@ -23,8 +23,45 @@ def le_linha():
 # end le_linha()
 
 
-def prim(origem, destino, Grafo):
-    print()
+def transforma_em_string(linha):
+    result = str(linha)
+
+    return result
+# end transforma_em_int()
+
+
+def transforma_em_int(linha):
+    result = transforma_em_string(linha)
+
+    result = int(result[11:12])
+
+    return result
+# end transforma_em_int()
+
+
+def maior_caminho(caminho, grafo):
+    # pega a primeira aresta
+    o = int(caminho[0])
+    d = int(caminho[1])
+
+    # pega peso
+    peso = grafo.get_edge_data(o, d)
+
+    maior = transforma_em_int(peso)
+
+    for i in range(1, len(caminho)-1):
+        o = int(caminho[i])
+        d = int(caminho[i+1])
+
+        peso = grafo.get_edge_data(o, d)
+
+        # testa se o peso e' maior
+        if transforma_em_int(peso) > maior:
+            maior = transforma_em_int(peso)
+        # end if
+    # end for
+
+    return maior
 # end prim()
 
 
@@ -48,7 +85,7 @@ if __name__ == '__main__':
 
         for i in range(0, m):
             # le insercoes
-            linha = input("u, v, w = ")
+            linha = input("")
 
             # dando o split
             u, v, w = linha.split(" ")
@@ -57,8 +94,6 @@ if __name__ == '__main__':
             G.add_edge(int(v), int(u), weigth=int(w))
         # end for
 
-        # show_graph(G)
-        
         # k = numero de pares
         k = le_linha()
 
@@ -71,10 +106,19 @@ if __name__ == '__main__':
             # separando por espaco
             origem, destino = linha.split(" ")
 
+            # converte para inteiro
+            origem = int(origem)
+            destino = int(destino)
+
             # mostrando as maiores alturas encontradas
             print("Instancia", h)
 
-            prim(origem, destino, G)
+            caminho = nx.shortest_path(G, source=origem, target=destino)
+
+            # pega maior peso
+            caminho = maior_caminho(caminho, G)
+
+            print(caminho)
 
             # incrementa a instancia
             h = h + 1
