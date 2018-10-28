@@ -1,19 +1,5 @@
 # LAB06-Bicicletas - arvore geradora minima
 import networkx as nx
-import matplotlib.pyplot as plt
-
-
-def show_graph(g):
-    graph = nx.Graph(g)
-
-    pos = nx.circular_layout(graph)
-
-    nx.draw_networkx_nodes(graph, pos, node_color='r', node_size=500, alpha=0.8)
-
-    nx.draw_networkx_edges(graph, pos, width=1, alpha=0.5)
-
-    plt.show()
-# end show_graph()
 
 
 def le_linha():
@@ -62,7 +48,7 @@ def maior_caminho(caminho, grafo):
     # end for
 
     return maior
-# end prim()
+# end maior_caminho()
 
 
 if __name__ == '__main__':
