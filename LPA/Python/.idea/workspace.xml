@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73b3e124-3eed-4a83-b0ab-bedc9d73be7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LAB07/LAB07-Arvore_Binaria_de_Expressao/entrada_saida/pub.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB07/LAB07-Arvore_Binaria_de_Expressao/entrada_saida/pub.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB07/LAB07-Jogo_da_Memoria/entrada_saida/pub.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB07/LAB07-Jogo_da_Memoria/entrada_saida/pub.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB07/problemas/Jogo_da_Memória.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB07/problemas/Árvore_Binária_de_Expressão.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/LAB08-Minha_Camiseta_Me_Serve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/entrada_saida/pub.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/entrada_saida/pub.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/problemas/Lab08.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/LAB08-Minha_Camiseta_Me_Serve.py" beforeDir="false" afterPath="$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/LAB08-Minha_Camiseta_Me_Serve.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +13,9 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Python$Lab05_Parceiros_de_Telecomunicacoes.coverage" NAME="Lab05-Parceiros_de_Telecomunicacoes Coverage Results" MODIFIED="1539473639931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB05" />
-    <SUITE FILE_PATH="coverage/Python$LAB06_O_Pais_da_Bicicletas_.coverage" NAME="LAB06-O_Pais_da_Bicicletas  Coverage Results" MODIFIED="1540763040178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB06/LAB06-O_Pais_das_Bicicletas" />
+    <SUITE FILE_PATH="coverage/Python$LAB06_O_Pais_da_Bicicletas_.coverage" NAME="LAB06-O_Pais_da_Bicicletas  Coverage Results" MODIFIED="1540777392752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB06/LAB06-O_Pais_das_Bicicletas" />
     <SUITE FILE_PATH="coverage/Python$LAB05_Estradas_Escuras.coverage" NAME="LAB05-Estradas_Escuras Coverage Results" MODIFIED="1539474109310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB05/LAB05 - Estradas Escuras" />
+    <SUITE FILE_PATH="coverage/Python$LAB08_Minha_Camiseta_Me_Serve.coverage" NAME="LAB08-Minha_Camiseta_Me_Serve Coverage Results" MODIFIED="1540778496907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -43,17 +35,20 @@
     <session id="-1863246496">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.39" value="2" />
+          <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.52" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -61,14 +56,14 @@
           <entry key="dummy" value="24" />
           <entry key="in" value="34" />
           <entry key="out" value="17" />
-          <entry key="py" value="3990" />
-          <entry key="txt" value="90" />
+          <entry key="py" value="4318" />
+          <entry key="txt" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="165" />
-          <entry key="Python" value="3990" />
+          <entry key="PLAIN_TEXT" value="181" />
+          <entry key="Python" value="4318" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -76,7 +71,7 @@
           <entry key="html" value="4" />
           <entry key="in" value="15" />
           <entry key="out" value="8" />
-          <entry key="py" value="20" />
+          <entry key="py" value="21" />
           <entry key="pyi" value="1" />
         </counts>
       </usages-collector>
@@ -84,7 +79,7 @@
         <counts>
           <entry key="HTML" value="4" />
           <entry key="PLAIN_TEXT" value="23" />
-          <entry key="Python" value="20" />
+          <entry key="Python" value="21" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
@@ -94,35 +89,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LAB06/LAB06-O_Pais_das_Bicicletas/LAB06-O_Pais_da_Bicicletas .py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-              <folding>
-                <marker date="1540763115176" expanded="true" signature="83:938" ph="..." />
-                <marker date="1540763115176" expanded="true" signature="351:398" ph="..." />
-                <marker date="1540763115176" expanded="true" signature="437:914" ph="..." />
-                <marker date="1540763115176" expanded="true" signature="437:938" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/LAB08-Minha_Camiseta_Me_Serve.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="600">
+              <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LAB05/LAB05 - Estradas Escuras/LAB05-Estradas_Escuras.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/entrada_saida/pub.in">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -195,6 +184,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,7 +195,13 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="LAB06" type="462c0819:PsiDirectoryNode" />
+              <item name="LAB07" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="LAB07" type="462c0819:PsiDirectoryNode" />
+              <item name="LAB07-Jogo_da_Memoria" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
@@ -228,7 +224,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,7 +254,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LAB06-O_Pais_da_Bicicletas ">
+  <component name="RunManager" selected="Python.LAB08-Minha_Camiseta_Me_Serve">
     <configuration name="LAB05-Estradas_Escuras" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -304,6 +299,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="LAB08-Minha_Camiseta_Me_Serve" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/LAB08-Minha_Camiseta_Me_Serve.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Lab05-Parceiros_de_Telecomunicacoes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -330,9 +347,11 @@
       <item itemvalue="Python.Lab05-Parceiros_de_Telecomunicacoes" />
       <item itemvalue="Python.LAB05-Estradas_Escuras" />
       <item itemvalue="Python.LAB06-O_Pais_da_Bicicletas " />
+      <item itemvalue="Python.LAB08-Minha_Camiseta_Me_Serve" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LAB08-Minha_Camiseta_Me_Serve" />
         <item itemvalue="Python.LAB06-O_Pais_da_Bicicletas " />
         <item itemvalue="Python.LAB05-Estradas_Escuras" />
         <item itemvalue="Python.Lab05-Parceiros_de_Telecomunicacoes" />
@@ -385,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540763128274</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Problemas 7 e 8">
+      <created>1540775470364</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540775470364</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -399,14 +425,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1920" height="1050" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16061899" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16542156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4423913" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3228261" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.48586956" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -457,7 +482,8 @@
     <MESSAGE value="LAB05 - Parceiros de Telecomunicaçoes" />
     <MESSAGE value="LAB05 - Estradas Escuras" />
     <MESSAGE value="LAB06 - O Pais das bicicletas" />
-    <option name="LAST_COMMIT_MESSAGE" value="LAB06 - O Pais das bicicletas" />
+    <MESSAGE value="Problemas 7 e 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problemas 7 e 8" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file:///usr/lib/python3.5/codecs.py">
@@ -510,13 +536,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LAB07/LAB07.py" />
-    <entry file="file://$PROJECT_DIR$/LAB05/LAB05 - Estradas Escuras/LAB05-Estradas_Escuras.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LAB06/problemas/1423 - A aventura de Super Mario - URI Online Judge.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -565,19 +584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LAB06/LAB06-O_Pais_das_Bicicletas/LAB06-O_Pais_da_Bicicletas .py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <marker date="1540763115176" expanded="true" signature="83:938" ph="..." />
-            <marker date="1540763115176" expanded="true" signature="351:398" ph="..." />
-            <marker date="1540763115176" expanded="true" signature="437:914" ph="..." />
-            <marker date="1540763115176" expanded="true" signature="437:938" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LAB07/LAB07-Jogo_da_Memoria/entrada_saida/pub.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -606,6 +612,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LAB06/LAB06-O_Pais_das_Bicicletas/LAB06-O_Pais_da_Bicicletas .py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <marker date="1540763115176" expanded="true" signature="83:938" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAB05/LAB05 - Estradas Escuras/LAB05-Estradas_Escuras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/entrada_saida/pub.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/entrada_saida/pub.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -615,15 +645,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/LAB08-Minha_Camiseta_Me_Serve.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/entrada_saida/pub.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        <state relative-caret-position="600">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
         </state>
       </provider>
     </entry>
