@@ -1,88 +1,25 @@
-# LAB08 - Minha Camiseta me Serve
-
-
-def adiciona_no_array(tam):
-    # cria array auxiliar
-    result = []
-    for t in range (0, len(tam)):
-        tam1, tam2 = tam[t].split(" ")
-
-        # adiciona tamanhos
-        result.append(tam1)
-        result.append(tam2)
-    # end for
-    return result
-# end adiciona_no_array()
-
-
-def verifica_elementos(tam):
-    # cria boolean que verifica resultado
-    igual = True
-
-    # array auxiliar
-    aux = []
-
-    # adicionar tamanhos no array
-    for i in range(0, len(tam)):
-        if tam[i] == 'XS':
-            aux[0] = 1
-        elif tam[i] == 'S':
-            aux[1] = 1
-        elif tam[i] == 'M':
-            aux[2] = 1
-        elif tam[i] == 'L':
-            aux[3] = 1
-        elif tam[i] == 'XL':
-            aux[4] = 1
-        elif tam[i] == 'XXL':
-            aux[5] = 1
-        # end if
-    # end for
-
-    # verifica a soma dos elementos
-    for i in aux:
-        #
-        if m > n:
-            igual = False
-        # end if
-    # mostra o resultado
-    mostra_resultado(igual)
-# end verifica_elementos()
-
-
-def mostra_resultado(igual):
-    if igual:
-        print("YES")
-    else:
-        print("NO")
-    # end if
-# end mostra_resultado()
-
+import networkx as nx
+from networkx.algorithms import bipartite
 
 if __name__ == '__main__':
-    # lendo quantidade
-    quantidade = int(input(""))
+    # lendo os casos
+    casos = int(input(""))
 
-    for i in range(0, quantidade):
-        # lendo n, m
-        linha = input("")
-        n, m = linha.split(" ")
+    for i in range(casos):
+        # instanciando o grafo
+        G = nx.Graph()
 
-        # convertendo para inteiro
-        n = int(n)
-        m = int(m)
+        n, m = [int(i) for k in input("").split(" ")]
 
-        tam = []
-        tamanho = []
-        for j in range(0, m):
-            # lendo tamanhos
-            tam.append(input(""))
+        G.add_nodes_from(range(1, m), bipartite=0)
+
+        for j in range(1, m+1):
+            tam1, tam2 = input("").split(" ")
+
+            G.add_nodes_from([tam1, tam2], bipartite=1)
+
+            G.add_edges_from([(j, tam1), (j, tam2)])
         # end for
-
-        # da o split e adiciona
-        tamanho = adiciona_no_array(tam)
-
-        # verifica se possui elementos iguais
-        verifica_elementos(tamanho)
+        print("NO" if (len(bipartite.maximum_matching(G)) / 2 < m) else "YES")
     # end for
 # end main

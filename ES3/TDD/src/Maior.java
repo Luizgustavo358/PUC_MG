@@ -3,7 +3,7 @@ public class Maior
 {
 	public static int maior(int[] list)
 	{
-		int index, max = Integer.MAX_VALUE;
+		int index, max = 0;
 		
 		if(list.length == 0)
 		{

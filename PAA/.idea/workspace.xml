@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="false">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7674f742-dee9-4419-bda8-de570015f4b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LPA/Python/LAB07/LAB07-Jogo_da_Memoria/LAB07-Jogo_da_Memoria.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabalho-Pratico/Algoritmo-Genetico/algoritmo-genetico.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabalho-Pratico/Branch-and-Bound/Graph.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabalho-Pratico/Branch-and-Bound/branch-and-bound.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabalho-Pratico/Forca-Bruta/Graph.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabalho-Pratico/Forca-Bruta/entradas/pub.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabalho-Pratico/Forca-Bruta/entradas/pub.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabalho-Pratico/Forca-Bruta/forca-bruta.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabalho-Pratico/Programacao-Dinamica/programacao-dinamica.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ES3/TDD/bin/Maior.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ES3/TDD/bin/Maior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ES3/TDD/src/Maior.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ES3/TDD/src/Maior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPA/Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LPA/Python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPA/Python/LAB08-Minha_Camiseta_Me_Serve/LAB08-Minha_Camiseta_Me_Serve.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LPA/Python/LAB08-Minha_Camiseta_Me_Serve/LAB08-Minha_Camiseta_Me_Serve.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="697717568">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="10" />
+          <entry key="h" value="7" />
+          <entry key="in" value="1" />
+          <entry key="out" value="8" />
+          <entry key="sh" value="1" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ObjectiveC" value="17" />
+          <entry key="PLAIN_TEXT" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="2616" />
+          <entry key="h" value="659" />
+          <entry key="in" value="37" />
+          <entry key="out" value="15" />
+          <entry key="sh" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bash" value="1" />
+          <entry key="ObjectiveC" value="3275" />
+          <entry key="PLAIN_TEXT" value="82" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.cidr.testingFrameworks.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Trabalho-Pratico/Algoritmo-Genetico/algoritmo-genetico.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Trabalho-Pratico/Forca-Bruta/forca-bruta.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="94" column="19" selection-start-line="94" selection-start-column="19" selection-end-line="94" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Trabalho-Pratico/Forca-Bruta/Graph.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="198" column="32" selection-start-line="198" selection-start-column="32" selection-end-line="198" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Trabalho-Pratico/Forca-Bruta/entradas/pub.in" />
+        <option value="$PROJECT_DIR$/Trabalho-Pratico/Forca-Bruta/entradas/pub.out" />
+        <option value="$PROJECT_DIR$/Trabalho-Pratico/Forca-Bruta/gerador.sh" />
+        <option value="$PROJECT_DIR$/Trabalho-Pratico/Branch-and-Bound/Graph.h" />
+        <option value="$PROJECT_DIR$/Trabalho-Pratico/Branch-and-Bound/branch-and-bound.cpp" />
+        <option value="$PROJECT_DIR$/Trabalho-Pratico/Forca-Bruta/Graph.h" />
+        <option value="$PROJECT_DIR$/Trabalho-Pratico/Forca-Bruta/forca-bruta.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="829" />
+    <option name="y" value="242" />
+    <option name="width" value="1011" />
+    <option name="height" value="799" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PAA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PAA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PAA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PAA" type="462c0819:PsiDirectoryNode" />
+              <item name="Trabalho-Pratico" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PAA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PAA" type="462c0819:PsiDirectoryNode" />
+              <item name="Trabalho-Pratico" type="462c0819:PsiDirectoryNode" />
+              <item name="Algoritmo-Genetico" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PAA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PAA" type="462c0819:PsiDirectoryNode" />
+              <item name="Trabalho-Pratico" type="462c0819:PsiDirectoryNode" />
+              <item name="Forca-Bruta" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Trabalho-Pratico/Forca-Bruta" />
+      <recent name="$PROJECT_DIR$/Trabalho-Pratico/Branch-and-Bound" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7674f742-dee9-4419-bda8-de570015f4b6" name="Default Changelist" comment="" />
+      <created>1541943294531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541943294531</updated>
+      <workItem from="1541943301546" duration="17051000" />
+      <workItem from="1541962156655" duration="12495000" />
+      <workItem from="1542027048123" duration="663000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30209000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="30" width="1920" height="1050" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12219851" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.20978262" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Trabalho-Pratico/Forca-Bruta/entradas/pub.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trabalho-Pratico/Forca-Bruta/forca-bruta.txt" />
+    <entry file="file://$PROJECT_DIR$/Trabalho-Pratico/Forca-Bruta/entradas/pub.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trabalho-Pratico/Forca-Bruta/gerador.sh" />
+    <entry file="file://$PROJECT_DIR$/Trabalho-Pratico/Programacao-Dinamica/programacao-dinamica.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trabalho-Pratico/Branch-and-Bound/branch-and-bound.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trabalho-Pratico/Branch-and-Bound/Graph.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="363" column="18" selection-start-line="363" selection-start-column="18" selection-end-line="363" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trabalho-Pratico/Forca-Bruta/forca-bruta.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trabalho-Pratico/Algoritmo-Genetico/algoritmo-genetico.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trabalho-Pratico/Forca-Bruta/forca-bruta.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="94" column="19" selection-start-line="94" selection-start-column="19" selection-end-line="94" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trabalho-Pratico/Forca-Bruta/Graph.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="198" column="32" selection-start-line="198" selection-start-column="32" selection-end-line="198" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
