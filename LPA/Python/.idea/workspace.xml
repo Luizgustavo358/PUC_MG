@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73b3e124-3eed-4a83-b0ab-bedc9d73be7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LAB09/LAB09-Coin_Collector/11264.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB09/LAB09-Coin_Collector/entrada_saida/pub.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB09/LAB09-Coin_Collector/entrada_saida/pub.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB09/LAB09-Saco_do_Papai_Noel/1767 - Saco do Papai Noel - URI Online Judge.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB09/LAB09-Saco_do_Papai_Noel/LAB09-Saco_do_Papai_Noel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB09/LAB09-Coin_Collector/LAB09-Coin_Collector.py" beforeDir="false" afterPath="$PROJECT_DIR$/LAB09/LAB09-Coin_Collector/LAB09-Coin_Collector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB07/LAB07-Jogo_da_Memoria/LAB07-Jogo_da_Memoria.py" beforeDir="false" afterPath="$PROJECT_DIR$/LAB07/LAB07-Jogo_da_Memoria/LAB07-Jogo_da_Memoria.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/LAB08-Minha_Camiseta_Me_Serve.py" beforeDir="false" afterPath="$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/LAB08-Minha_Camiseta_Me_Serve.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PAA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PAA/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,9 +19,9 @@
     <SUITE FILE_PATH="coverage/Python$Lab05_Parceiros_de_Telecomunicacoes.coverage" NAME="Lab05-Parceiros_de_Telecomunicacoes Coverage Results" MODIFIED="1539473639931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB05" />
     <SUITE FILE_PATH="coverage/Python$q1.coverage" NAME="q1 Coverage Results" MODIFIED="1540911683602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prova2" />
     <SUITE FILE_PATH="coverage/Python$LAB06_O_Pais_da_Bicicletas_.coverage" NAME="LAB06-O_Pais_da_Bicicletas  Coverage Results" MODIFIED="1540777392752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB06/LAB06-O_Pais_das_Bicicletas" />
-    <SUITE FILE_PATH="coverage/Python$LAB07_Jogo_da_Memoria.coverage" NAME="LAB07-Jogo_da_Memoria Coverage Results" MODIFIED="1541421692510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB07/LAB07-Jogo_da_Memoria" />
+    <SUITE FILE_PATH="coverage/Python$LAB07_Jogo_da_Memoria.coverage" NAME="LAB07-Jogo_da_Memoria Coverage Results" MODIFIED="1542335923557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB07/LAB07-Jogo_da_Memoria" />
     <SUITE FILE_PATH="coverage/Python$LAB05_Estradas_Escuras.coverage" NAME="LAB05-Estradas_Escuras Coverage Results" MODIFIED="1539474109310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB05/LAB05 - Estradas Escuras" />
-    <SUITE FILE_PATH="coverage/Python$LAB08_Minha_Camiseta_Me_Serve.coverage" NAME="LAB08-Minha_Camiseta_Me_Serve Coverage Results" MODIFIED="1541425728946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve" />
+    <SUITE FILE_PATH="coverage/Python$LAB08_Minha_Camiseta_Me_Serve.coverage" NAME="LAB08-Minha_Camiseta_Me_Serve Coverage Results" MODIFIED="1542334556961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve" />
     <SUITE FILE_PATH="coverage/Python$LAB09_Coin_Collector.coverage" NAME="LAB09-Coin_Collector Coverage Results" MODIFIED="1542198030303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB09/LAB09-Coin_Collector" />
   </component>
   <component name="DatabaseView">
@@ -41,7 +42,7 @@
     <session id="-1863246496">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.28" value="1" />
@@ -52,12 +53,13 @@
           <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.36" value="3" />
+          <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.39" value="2" />
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -65,30 +67,30 @@
           <entry key="dummy" value="45" />
           <entry key="in" value="34" />
           <entry key="out" value="21" />
-          <entry key="py" value="9795" />
-          <entry key="txt" value="106" />
+          <entry key="py" value="10351" />
+          <entry key="txt" value="125" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="206" />
-          <entry key="Python" value="9795" />
+          <entry key="PLAIN_TEXT" value="225" />
+          <entry key="Python" value="10351" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="4" />
-          <entry key="in" value="18" />
-          <entry key="out" value="9" />
-          <entry key="py" value="31" />
+          <entry key="in" value="21" />
+          <entry key="out" value="11" />
+          <entry key="py" value="34" />
           <entry key="pyi" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="4" />
-          <entry key="PLAIN_TEXT" value="27" />
-          <entry key="Python" value="31" />
+          <entry key="PLAIN_TEXT" value="32" />
+          <entry key="Python" value="34" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
@@ -97,38 +99,52 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LAB09/LAB09-Coin_Collector/LAB09-Coin_Collector.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-              <folding>
-                <marker date="1542198358835" expanded="true" signature="50:339" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LAB09/LAB09-Coin_Collector/entrada_saida/pub.in">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LAB09/LAB09-Coin_Collector/entrada_saida/pub.out">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.7148562">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/LAB07/LAB07-Jogo_da_Memoria/LAB07-Jogo_da_Memoria.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="821">
+                  <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/LAB07/LAB07-Jogo_da_Memoria/entrada_saida/pub.out">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="96">
+                  <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/LAB07/LAB07-Jogo_da_Memoria/entrada_saida/pub.in">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="192">
+                  <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/LAB07/LAB07-Jogo_da_Memoria/entrada_saida/pub.in">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="192">
+                  <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -168,11 +184,12 @@
         <option value="$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/entrada_saida/pub.out" />
         <option value="$PROJECT_DIR$/Prova2/q1.py" />
         <option value="$PROJECT_DIR$/Prova2/q2.py" />
-        <option value="$PROJECT_DIR$/LAB07/LAB07-Jogo_da_Memoria/LAB07-Jogo_da_Memoria.py" />
-        <option value="$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/LAB08-Minha_Camiseta_Me_Serve.py" />
         <option value="$PROJECT_DIR$/LAB09/LAB09-Coin_Collector/entrada_saida/pub.in" />
         <option value="$PROJECT_DIR$/LAB09/LAB09-Coin_Collector/entrada_saida/pub.out" />
         <option value="$PROJECT_DIR$/LAB09/LAB09-Coin_Collector/LAB09-Coin_Collector.py" />
+        <option value="$PROJECT_DIR$/LAB09/LAB09-Saco_do_Papai_Noel/LAB09-Saco_do_Papai_Noel.py" />
+        <option value="$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/LAB08-Minha_Camiseta_Me_Serve.py" />
+        <option value="$PROJECT_DIR$/LAB07/LAB07-Jogo_da_Memoria/LAB07-Jogo_da_Memoria.py" />
       </list>
     </option>
   </component>
@@ -182,7 +199,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="30" />
     <option name="width" value="1298" />
     <option name="height" value="1049" />
@@ -193,6 +210,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,32 +226,18 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="LAB07" type="462c0819:PsiDirectoryNode" />
-              <item name="LAB07-Arvore_Binaria_de_Expressao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="LAB09" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="LAB09" type="462c0819:PsiDirectoryNode" />
-              <item name="LAB09-Coin_Collector" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="LAB09" type="462c0819:PsiDirectoryNode" />
-              <item name="LAB09-Coin_Collector" type="462c0819:PsiDirectoryNode" />
-              <item name="entrada_saida" type="462c0819:PsiDirectoryNode" />
+              <item name="LAB09-Saco_do_Papai_Noel" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LAB09-Coin_Collector">
+  <component name="RunManager" selected="Python.LAB07-Jogo_da_Memoria">
     <configuration name="LAB06-O_Pais_da_Bicicletas " type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -385,9 +389,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LAB09-Coin_Collector" />
-        <item itemvalue="Python.LAB08-Minha_Camiseta_Me_Serve" />
         <item itemvalue="Python.LAB07-Jogo_da_Memoria" />
+        <item itemvalue="Python.LAB08-Minha_Camiseta_Me_Serve" />
+        <item itemvalue="Python.LAB09-Coin_Collector" />
         <item itemvalue="Python.q1" />
         <item itemvalue="Python.LAB06-O_Pais_da_Bicicletas " />
       </list>
@@ -446,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540775470364</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Coin Collector">
+      <created>1542198385764</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1542198385765</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -459,10 +470,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="30" width="1298" height="1049" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="30" width="1920" height="1050" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23642172" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16061899" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -470,7 +480,7 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.48586956" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.24483134" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.36343852" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32934782" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
@@ -519,7 +529,8 @@
     <MESSAGE value="LAB05 - Estradas Escuras" />
     <MESSAGE value="LAB06 - O Pais das bicicletas" />
     <MESSAGE value="Problemas 7 e 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problemas 7 e 8" />
+    <MESSAGE value="Coin Collector" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coin Collector" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file:///usr/lib/python3.5/codecs.py">
@@ -606,13 +617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LAB07/LAB07-Jogo_da_Memoria/entrada_saida/pub.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LAB07/LAB07-Arvore_Binaria_de_Expressao/entrada_saida/pub.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -631,13 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/entrada_saida/pub.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -662,13 +659,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LAB07/LAB07-Jogo_da_Memoria/entrada_saida/pub.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LAB06/LAB06-O_Pais_das_Bicicletas/LAB06-O_Pais_da_Bicicletas .py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -677,23 +667,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LAB09/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/LAB07/LAB07-Jogo_da_Memoria/LAB07-Jogo_da_Memoria.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/LAB08-Minha_Camiseta_Me_Serve.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LAB05/LAB05-Parceiros_de_Telecomunicacoes/Lab05-Parceiros_de_Telecomunicacoes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
@@ -701,17 +674,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/entrada_saida/pub.in">
+    <entry file="file://$PROJECT_DIR$/LAB09/LAB09-Coin_Collector/LAB09-Coin_Collector.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="3" selection-end-line="7" selection-end-column="3" />
+        <state relative-caret-position="480">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <marker date="1542198358835" expanded="true" signature="50:339" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LAB09/LAB09-Coin_Collector/entrada_saida/pub.out">
+    <entry file="file://$PROJECT_DIR$/LAB09/LAB09-Saco_do_Papai_Noel/LAB09-Saco_do_Papai_Noel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        <state relative-caret-position="48">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -722,13 +698,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LAB09/LAB09-Coin_Collector/LAB09-Coin_Collector.py">
+    <entry file="file://$PROJECT_DIR$/LAB09/LAB09-Coin_Collector/entrada_saida/pub.out">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="24">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/entrada_saida/pub.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/entrada_saida/pub.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="3" lean-forward="true" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAB08-Minha_Camiseta_Me_Serve/LAB08-Minha_Camiseta_Me_Serve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding>
-            <marker date="1542198358835" expanded="true" signature="50:339" ph="..." />
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAB07/LAB07-Jogo_da_Memoria/entrada_saida/pub.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAB07/LAB07-Jogo_da_Memoria/entrada_saida/pub.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAB07/LAB07-Jogo_da_Memoria/LAB07-Jogo_da_Memoria.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="821">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>

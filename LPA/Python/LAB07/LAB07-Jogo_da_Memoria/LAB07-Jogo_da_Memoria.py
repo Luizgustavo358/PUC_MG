@@ -1,26 +1,28 @@
 import networkx as nx
 
 if __name__ == '__main__':
+    # definir dados
+    soma = 0
+
     # instanciando o grafo
     G = nx.Graph()
 
     # lendo n
-    n = int(input(""))
+    n = int(input())
 
-    # pegndo as posicoes
-    posicoes = [int(i) for i in input("").split(" ")]
+    # pegando as posicoes
+    posicoes = [int(i) for i in input().split()]
 
-    # tirando
+    # tirando cartas duplicadas
     cartas = set(posicoes)
 
-    for i in range(0, n-1):
-        s, t = [int(i) for i in input("").split(" ")]
+    for i in range(n-1):
+        # lendo elementos
+        s, t = [int(i) for i in input().split()]
 
         # adicionando vertices
         G.add_edge(s, t)
     # end for
-
-    soma = 0
 
     for i in cartas:
         source = posicoes.index(i) + 1
