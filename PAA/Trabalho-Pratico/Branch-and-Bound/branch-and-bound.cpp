@@ -80,7 +80,7 @@ int main()
     resposta = grafo.branchBound();
 
     // criando arquivo "branch-and-bound.out"
-    file.open("branch-and-bound.out");
+    file.open("branch-and-bound.txt");
 
     for(i = 0; i < resposta.size(); i++)
     {

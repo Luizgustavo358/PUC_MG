@@ -19,16 +19,12 @@ double distanciaEuclidiana(int x, int y, int a, int b)
 }// fim distanciaEuclidiana
 
 
-Graph contruirGrafo()
+Graph contruirGrafo(int n)
 {
     // definir dados
     int i, j;    // variavel de controle
-    int n;       // quantidade de cidades
     double x, y; // coordenadas
     double aux;
-
-    // le a quantidade de cidades
-    cin >> n;
 
     // cria o grafo
     Graph grafo(n);
@@ -67,20 +63,24 @@ Graph contruirGrafo()
 int main()
 {
     // definir dados
-    int i;
+    int i, n;
     ofstream file;
     string caminho = "";
+    string linha = "";
     vector<int> resposta;
     double caminhoTotal = 0;
 
+    // le quantidade de cidades
+    cin >> n;
+
     // criando o grafo
-    Graph grafo = contruirGrafo();
+    Graph grafo = contruirGrafo(n);
 
     // fazendo o forca bruta
     resposta = grafo.bruteForce();
 
-    // criando arquivo "forca-bruta.out"
-    file.open("forca-bruta.out");
+    // criando arquivo "forca-bruta.txt"
+    file.open("forca-bruta.txt");
 
     for(i = 0; i < resposta.size(); i++)
     {
@@ -88,7 +88,7 @@ int main()
         caminhoTotal += grafo.adj[resposta[i]][resposta[i+1]];
 
         // mostra o caminho
-        caminho += to_string(resposta[i] + 1) + " ";
+        caminho = caminho + to_string(resposta[i] + 1) + " ";
     }// fim for
 
     // printa o tamanho percorrido
