@@ -2,6 +2,8 @@
 #define _Driver_CPP
 
 #include <stdio.h>
+#include <time.h>
+#include <math.h>
 #include <string>
 
 #include "bibliotecas/GeneticAlgorithm.h"
@@ -75,9 +77,14 @@ void leGrafo()
 
 int main()
 {
+    clock_t t0, tf;
+    double tempoGasto;
+
     srand(time(NULL));
 
     leGrafo();
+
+    t0 = clock();
 
     Population *population = new Population(POPULATION_SIZE, initialRoute);
     population->sortRoutesByFitness();
@@ -94,6 +101,12 @@ int main()
 
         population = geneticAlgorithm->evolve(population);
     }// fim while
+
+    tf = clock();
+
+    tempoGasto = ((double)(tf - t0)) / CLOCKS_PER_SEC;
+
+    printf("Tempo gasto: %lf s\n", tempoGasto);
 
     cout << population->getRoutes().at(0)->calculateTotalDistance() << endl;
     cout << population->getRoutes().at(0)->toCharPointer() << endl;

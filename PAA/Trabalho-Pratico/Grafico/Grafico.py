@@ -55,10 +55,10 @@ def lerDados( path ):
 
 
 def main():
-    #tempoGenetico = lerDados("Genetico.txt")
+    tempoGenetico = lerDados("algoritmo-genetico.txt")
     tempoBruta = lerDados("forca-bruta.txt")
-    #tempoBranch = lerDados("BranchAndBounds.txt")
-    #tempoDinamica = lerDados("ProgramacaoDinamica.txt")
+    tempoBranch = lerDados("branch-and-bounds.txt")
+    tempoDinamica = lerDados("programacao-dinamica.txt")
 
     # numero de vertices
     lista_vertices = list()
@@ -68,10 +68,10 @@ def main():
         lista_vertices.append( x )
     # end for
 
-    #plt.plot(lista_vertices, tempoGenetico)
+    plt.plot(lista_vertices, tempoGenetico)
     plt.plot(lista_vertices, tempoBruta)
-    #plt.plot(lista_vertices, tempoBranch)
-    #plt.plot(lista_vertices, tempoDinamica)
+    plt.plot(lista_vertices, tempoBranch)
+    plt.plot(lista_vertices, tempoDinamica)
 
     plt.xlabel('Número de cidades')
     plt.ylabel('Tempo em segundos')

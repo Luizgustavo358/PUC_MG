@@ -1,5 +1,6 @@
 #include "Graph.h"
-#include "math.h"
+#include <math.h>
+#include <time.h>
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -72,12 +73,22 @@ int main()
     string caminho = "";
     vector<int> resposta;
     double caminhoTotal = 0;
+    clock_t t0, tf;
+    double tempoGasto;
 
     // criando o grafo
     Graph grafo = contruirGrafo();
 
+    t0 = clock();
+
     // fazendo o branch and bound
     resposta = grafo.branchBound();
+
+    tf = clock();
+
+    tempoGasto = ((double)(tf - t0)) / CLOCKS_PER_SEC;
+
+    printf("Tempo gasto: %lf s\n", tempoGasto);
 
     // criando arquivo "branch-and-bound.out"
     file.open("branch-and-bound.txt");
