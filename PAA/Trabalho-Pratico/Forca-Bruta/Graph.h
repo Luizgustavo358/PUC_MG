@@ -141,18 +141,12 @@ bool Graph::isConnected(int x, int y) {
  * @return	resposta	Vetor de inteiros que possui a ordem que os vértices devem ser visitados para obter o menor caminho
  */
 vector<int> Graph::bruteForce() {
-    time_t inicio, fim;
     vector<int> cidades;
     vector<int> resposta;
     cidades.push_back(0);
     this->best = INFINITE;
 
-    inicio = clock();
     resposta = bruteForceR(0, 0, cidades,resposta);
-    fim = clock();
-    timeT = fim - inicio;
-
-    cout << "Tempo: " << (float)timeT << endl;
 
     return resposta;
 }//fim bruteForce()

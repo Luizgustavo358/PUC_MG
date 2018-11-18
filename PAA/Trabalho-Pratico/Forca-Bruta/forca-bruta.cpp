@@ -1,9 +1,10 @@
 #include "Graph.h"
-#include "math.h"
+#include <math.h>
 #include <iostream>
 #include <fstream>
 #include <string>
 #include <vector>
+#include <time.h>
 
 using namespace std;
 
@@ -69,6 +70,8 @@ int main()
     string linha = "";
     vector<int> resposta;
     double caminhoTotal = 0;
+    clock_t t0, tf;
+    double tempoGasto;
 
     // le quantidade de cidades
     cin >> n;
@@ -76,8 +79,16 @@ int main()
     // criando o grafo
     Graph grafo = contruirGrafo(n);
 
+    t0 = clock();
+
     // fazendo o forca bruta
     resposta = grafo.bruteForce();
+
+    tf = clock();
+
+    tempoGasto = ((double)(tf - t0)) / CLOCKS_PER_SEC;
+
+    printf("Tempo gasto: %lf s\n", tempoGasto);
 
     // criando arquivo "forca-bruta.txt"
     file.open("forca-bruta.txt");
