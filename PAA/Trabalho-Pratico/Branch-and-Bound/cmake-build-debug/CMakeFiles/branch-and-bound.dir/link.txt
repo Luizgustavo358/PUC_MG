@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/branch-and-bound.dir/branch-and-bound.cpp.o  -o branch-and-bound 

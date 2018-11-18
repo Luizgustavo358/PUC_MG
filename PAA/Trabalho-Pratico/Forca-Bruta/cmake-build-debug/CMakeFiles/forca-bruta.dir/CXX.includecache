@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/luiz/Documentos/Codigos Github/PUC_MG/PAA/Trabalho-Pratico/Forca-Bruta/Graph.h
+iostream
+-
+vector
+-
+ctime
+-
+
+/home/luiz/Documentos/Codigos Github/PUC_MG/PAA/Trabalho-Pratico/Forca-Bruta/forca-bruta.cpp
+Graph.h
+/home/luiz/Documentos/Codigos Github/PUC_MG/PAA/Trabalho-Pratico/Forca-Bruta/Graph.h
+math.h
+/home/luiz/Documentos/Codigos Github/PUC_MG/PAA/Trabalho-Pratico/Forca-Bruta/math.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+

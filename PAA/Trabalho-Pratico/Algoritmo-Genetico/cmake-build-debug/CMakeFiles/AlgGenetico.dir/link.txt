@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/AlgGenetico.dir/GeneticAlgorithm.cpp.o CMakeFiles/AlgGenetico.dir/City.cpp.o CMakeFiles/AlgGenetico.dir/Driver.cpp.o CMakeFiles/AlgGenetico.dir/Population.cpp.o CMakeFiles/AlgGenetico.dir/Route.cpp.o  -o AlgGenetico 

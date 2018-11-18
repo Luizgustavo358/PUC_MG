@@ -1,0 +1,3 @@
+/home/luiz/Documentos/Codigos Github/PUC_MG/PAA/Trabalho-Pratico/Branch-and-Bound/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/luiz/Documentos/Codigos Github/PUC_MG/PAA/Trabalho-Pratico/Branch-and-Bound/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/luiz/Documentos/Codigos Github/PUC_MG/PAA/Trabalho-Pratico/Branch-and-Bound/cmake-build-debug/CMakeFiles/branch-and-bound.dir

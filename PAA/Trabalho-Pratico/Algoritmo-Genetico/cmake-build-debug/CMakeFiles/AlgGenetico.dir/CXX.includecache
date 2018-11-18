@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/luiz/Documentos/Codigos Github/PUC_MG/PAA/Trabalho-Pratico/Algoritmo-Genetico/City.cpp
+bibliotecas/City.h
+/home/luiz/Documentos/Codigos Github/PUC_MG/PAA/Trabalho-Pratico/Algoritmo-Genetico/bibliotecas/City.h
+
+/home/luiz/Documentos/Codigos Github/PUC_MG/PAA/Trabalho-Pratico/Algoritmo-Genetico/bibliotecas/City.h
+iostream
+-
+string.h
+-
+math.h
+-
+

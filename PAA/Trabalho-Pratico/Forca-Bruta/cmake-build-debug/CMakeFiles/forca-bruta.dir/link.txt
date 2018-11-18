@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/forca-bruta.dir/forca-bruta.cpp.o  -o forca-bruta 
