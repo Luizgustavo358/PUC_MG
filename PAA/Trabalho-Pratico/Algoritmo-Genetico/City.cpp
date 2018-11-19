@@ -59,7 +59,7 @@ char* City::toCharPointer()
  * Medir a distancia entre 2 vertices,
  * usando a distancia euclidiana
  */
-double City:: measureDistance(City* city)
+double City::measureDistance(City* city)
 {
     double deltaX = (city->getLatitude() - getLatitude());
     double deltaY = (city->getLongitude() - getLongitude());

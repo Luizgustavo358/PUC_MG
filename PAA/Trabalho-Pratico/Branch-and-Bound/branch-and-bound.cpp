@@ -1,4 +1,4 @@
-#include "Graph.h"
+#include "biblioteca/Graph.h"
 #include <math.h>
 #include <time.h>
 #include <iostream>
