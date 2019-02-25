@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d02b97a7-bfad-4166-9964-e0ef87770798" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LAB09/Lab09.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB10/LAB10-Garota_Hiperativa/LAB10-Garota_Hiperativa.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB10/LAB10-Garota_Hiperativa/entrada_saida/pub.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB10/LAB10-Six_Flags/LAB10-Six_Flags.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB10/LAB10-Six_Flags/entrada_saida/pub.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB10/LAB10-Six_Flags/entrada_saida/pub.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB10/Lab10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Prova3/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Prova3/q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/LAB09/LAB09-Saco_do_Papai_Noel/1767 - Saco do Papai Noel - URI Online Judge.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/LAB09/LAB09-Saco_do_Papai_Noel/LAB09-Saco_do_Papai_Noel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/LAB09/LAB09-Saco_do_Papai_Noel/entrada_saida/pub.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/LAB09/LAB09-Saco_do_Papai_Noel/entrada_saida/pub.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/LAB09/Lab09.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/LAB10/LAB10-Garota_Hiperativa/LAB10-Garota_Hiperativa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/LAB10/LAB10-Six_Flags/LAB10-Six_Flags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/LAB10/LAB10-Six_Flags/entrada_saida/pub.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/LAB10/Lab10.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PAA/.idea/PAA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PAA/.idea/PAA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PAA/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PAA/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PAA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PAA/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LAB10/LAB10-Six_Flags/LAB10-Six_Flags.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="828">
+              <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LAB10/LAB10-Six_Flags/entrada_saida/pub.in">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="5" selection-end-line="12" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LAB10/LAB10-Six_Flags/entrada_saida/pub.out">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LAB09/LAB09-Saco_do_Papai_Noel/entrada_saida/pub.out" />
+        <option value="$PROJECT_DIR$/LAB09/LAB09-Saco_do_Papai_Noel/LAB09-Saco_do_Papai_Noel.cpp" />
+        <option value="$PROJECT_DIR$/LAB10/LAB10-Six_Flags/entrada_saida/pub.out" />
+        <option value="$PROJECT_DIR$/LAB10/LAB10-Six_Flags/entrada_saida/pub.in" />
+        <option value="$PROJECT_DIR$/LAB10/LAB10-Six_Flags/LAB10-Six_Flags.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2365" />
+    <option name="y" value="226" />
+    <option name="width" value="1365" />
+    <option name="height" value="787" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="C++" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C++" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="C++" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C++" type="462c0819:PsiDirectoryNode" />
+              <item name="LAB10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="C++" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C++" type="462c0819:PsiDirectoryNode" />
+              <item name="LAB10" type="462c0819:PsiDirectoryNode" />
+              <item name="LAB10-Six_Flags" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="C++" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C++" type="462c0819:PsiDirectoryNode" />
+              <item name="LAB10" type="462c0819:PsiDirectoryNode" />
+              <item name="LAB10-Six_Flags" type="462c0819:PsiDirectoryNode" />
+              <item name="entrada_saida" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d02b97a7-bfad-4166-9964-e0ef87770798" name="Default Changelist" comment="" />
+      <created>1543262747351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543262747351</updated>
+      <workItem from="1543262749129" duration="6623000" />
+      <workItem from="1549662185709" duration="142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6765000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="15" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14674494" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3902174" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LAB09/LAB09-Saco_do_Papai_Noel/entrada_saida/pub.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAB09/LAB09-Saco_do_Papai_Noel/LAB09-Saco_do_Papai_Noel.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAB09/LAB09-Saco_do_Papai_Noel/entrada_saida/pub.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAB10/LAB10-Six_Flags/LAB10-Six_Flags.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAB10/LAB10-Six_Flags/entrada_saida/pub.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="5" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAB10/LAB10-Six_Flags/entrada_saida/pub.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,72 +1,113 @@
+/**
+ * @materia LPA
+ * @professor Felipe
+ * @author Luiz Gustavo Braganca dos Santos
+ */
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
+
 using namespace std;
 
 class Brinquedo
 {
-public:
-	int D, P, div;
+	public:
+		// definir dados
+		int D, P, div;
 
-	Brinquedo(int D, int P)
-	{
-		this->D = D;
-		this->P = P;
-		div = (double)P / D;
-	}
+		/**
+		 * Construtor.
+		 * @param D
+		 * @param P
+		 */
+		Brinquedo(int D, int P)
+		{
+			this->D = D;
+			this->P = P;
+			div = (double)P / D;
+		}// end
 };
 
-bool comp(Brinquedo const & x, Brinquedo const & y)
+
+/**
+ * Metodo comparacao().
+ * @param x
+ * @param y
+ * @return
+ */
+bool comparacao(Brinquedo const & x, Brinquedo const & y)
 {
 	return x.div > y.div;
-}
+}// comparacao()
 
-int main(int argc, char *argv[])
+
+/**
+ * Metodo mostraResultado().
+ * @param h
+ * @param pontuacao_total
+ */
+void mostraResultado(int h, int pontuacao_total)
 {
-	int N, T, h = 1;
+	cout << "Instancia " << h << endl;
+	cout << pontuacao_total << "\n\n";
+}// end mostraResultado()
 
-	while(1)
+
+int main()
+{
+	// definir dados
+	int n, t, d, p, i;
+	int aux_tempo_total;
+	int pontuacao_total;
+	int tempo_total;
+	int h = 1;
+
+	// lendo dados
+	cin >> n;
+	cin >> t;
+
+	while(n != 0)
 	{
 		vector<Brinquedo> brinquedos;
 
-		cin >> N;
-		cin >> T;
-
-		if(N == 0)
-			return 0;
-
-		for(int i = 0; i < N; i++)
+		for(int j = 0; j < n; j++)
 		{
-			int D, P;
+			cin >> d;
+			cin >> p;
 
-			cin >> D;
-			cin >> P;
-
-			Brinquedo brinquedo(D, P);
+			Brinquedo brinquedo(d, p);
 			brinquedos.push_back(brinquedo);
-		}
+		}// end for
 
-		sort(brinquedos.begin(), brinquedos.end(), comp);
+		sort(brinquedos.begin(), brinquedos.end(), comparacao);
 
-		int pontuacao_total = 0, tempo_total = 0;
-		
-		int i = 0;
-		while(i < N)
+		pontuacao_total = 0;
+		tempo_total = 0;
+
+		i = 0;
+
+		while(i < n)
 		{
-			int aux_tempo_total = tempo_total + brinquedos[i].D;
-			if(aux_tempo_total <= T)
+			aux_tempo_total = tempo_total + brinquedos[i].D;
+
+			if(aux_tempo_total <= t)
 			{
 				pontuacao_total += brinquedos[i].P;
 				tempo_total = aux_tempo_total;
 			}
 			else
+			{
 				i++;
-			
-		}
+			}// end if
+		}// end while
 
-		cout << "Instancia " << h++ << endl;
-		cout << pontuacao_total << "\n\n";
-	}
+		mostraResultado(h++, pontuacao_total);
+
+		// lendo dados
+		cin >> n;
+		cin >> t;
+	}// end while
 
 	return 0;
-}
+}// end main
