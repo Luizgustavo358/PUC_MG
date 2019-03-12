@@ -1,8 +1,10 @@
-# PUC Minas - Trabalhos
+# Trabalhos da Faculdade
 
-:call_me_hand: Nome: Luiz Gustavo Bragança dos Santos
+:call_me_hand: **Nome:** Luiz Gustavo Bragança dos Santos
 
-:mortar_board: Graduação: Ciência da Computação
+:mortar_board: **Universidade:** Pontifícia Universidade Católica (PUC)
+
+:desktop_computer: **Graduação:** Ciência da Computação
 
 ### Links das Matérias:
 
@@ -18,9 +20,5 @@
 - [LP](LP)
 - [LPA](LPA)
 - [PAA](PAA)
-- []()
-- []()
-- []()
 
-:linux:
 :octocat:
