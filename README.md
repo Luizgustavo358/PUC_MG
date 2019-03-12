@@ -1,3 +1,3 @@
 # PUC Minas - Trabalhos
 
-:partyparrot:
+:+1::skin-tone-5:
