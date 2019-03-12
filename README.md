@@ -1,3 +1,7 @@
 # PUC Minas - Trabalhos
 
-:+1::skin-tone-5:
+:floppy_disk: Backup dos Trabalhos feitos
+
+:mortar_board: :desktop_computer:
+
+:octocat: :github:
